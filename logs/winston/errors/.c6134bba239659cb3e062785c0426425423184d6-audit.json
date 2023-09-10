@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\ASUS\\NextLevel\\Modules\\University-of-Programming-hero\\university-management-core-service-starter\\logs\\winston\\errors\\.c6134bba239659cb3e062785c0426425423184d6-audit.json",
+    "files": [
+        {
+            "date": 1694359303583,
+            "name": "C:\\Users\\ASUS\\NextLevel\\Modules\\University-of-Programming-hero\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-10-09-21-error.log",
+            "hash": "00ae90a4437311e1ba40fcd82a10e00591d308d15fb5360ac86feb4ec560ec5e"
+        }
+    ],
+    "hashType": "sha256"
+}
